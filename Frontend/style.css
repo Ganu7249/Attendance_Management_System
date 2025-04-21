@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+video, canvas {
+    border: 1px solid black;
+    margin-top: 10px;
+    #result {
+        margin-top: 20px;
+        font-size: 1.2rem;
+    }
+}
